@@ -1,4 +1,4 @@
-package implement_ArrayList_Using_Array;
+package static_Implementation_ArrayList_Using_Array;
 
 public interface MyArrayList<T> {
 
@@ -9,4 +9,6 @@ public interface MyArrayList<T> {
   void add(T element);
 
   T removeAt(int index);
+
+  boolean contains(T value);
 }

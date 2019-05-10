@@ -1,4 +1,4 @@
-package implement_DoublyLinkedList_Using_ListNode;
+package dynamic_Implementation_DoublyLinkedList_Using_Node;
 
 import java.util.Arrays;
 import java.util.Iterator;
@@ -13,9 +13,11 @@ public class Main {
     nums.addFirst(5);
     nums.addFirst(-2);
 
+    System.out.println(nums.contains(22));
+
     Iterator iterator = nums.getIterator();
 
-    while (iterator.hasNext()){
+    while (iterator.hasNext()) {
       System.out.println(iterator.next());
     }
 

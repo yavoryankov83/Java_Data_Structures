@@ -1,4 +1,4 @@
-package implement_ArrayList_Using_Array;
+package static_Implementation_ArrayList_Using_Array;
 
 public class Main {
   public static void main(String[] args) {
@@ -9,6 +9,8 @@ public class Main {
     nums.add(3);
     nums.add(4);
     nums.add(4);
+
+    System.out.println(nums.contains(44));
 
     try {
       nums.removeAt(0);

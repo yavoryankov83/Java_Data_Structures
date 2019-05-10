@@ -1,4 +1,4 @@
-package implement_DoublyLinkedList_Using_ListNode;
+package dynamic_Implementation_DoublyLinkedList_Using_Node;
 
 import java.util.Iterator;
 
@@ -17,6 +17,8 @@ public interface MyDoublyLinkedList<T> {
   T getTail();
 
   int size();
+
+  boolean contains(T value);
 
   T[] toArray();
 

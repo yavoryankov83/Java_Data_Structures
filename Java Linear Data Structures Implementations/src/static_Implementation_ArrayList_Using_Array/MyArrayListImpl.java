@@ -1,4 +1,4 @@
-package implement_ArrayList_Using_Array;
+package static_Implementation_ArrayList_Using_Array;
 
 import java.util.Arrays;
 
@@ -61,6 +61,18 @@ public class MyArrayListImpl<T> implements MyArrayList<T> {
 
     this.count--;
     return element;
+  }
+
+  //O(n) Complexity
+  @Override
+  public boolean contains(T value) {
+    for (int i = 0; i < this.count; i++) {
+      if (this.data[i].equals(value)) {
+        return true;
+      }
+    }
+
+    return false;
   }
 
   private void shrink() {

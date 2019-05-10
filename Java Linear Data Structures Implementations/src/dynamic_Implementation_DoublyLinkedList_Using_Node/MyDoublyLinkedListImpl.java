@@ -1,11 +1,11 @@
-package implement_DoublyLinkedList_Using_ListNode;
+package dynamic_Implementation_DoublyLinkedList_Using_Node;
 
 import java.util.Iterator;
 
 public class MyDoublyLinkedListImpl<T> implements MyDoublyLinkedList<T> {
 
-  private ListNode<T> head;
-  private ListNode<T> tail;
+  private Node<T> head;
+  private Node<T> tail;
   private int size;
 
   public MyDoublyLinkedListImpl() {
@@ -19,7 +19,7 @@ public class MyDoublyLinkedListImpl<T> implements MyDoublyLinkedList<T> {
   public void addFirst(T value) {
     this.size++;
 
-    ListNode<T> newNode = new ListNode<>(value);
+    Node<T> newNode = new Node<>(value);
 
     //check if list is empty
     if (this.head == null) {
@@ -40,7 +40,7 @@ public class MyDoublyLinkedListImpl<T> implements MyDoublyLinkedList<T> {
   public void addLast(T value) {
     this.size++;
 
-    ListNode<T> newNode = new ListNode<>(value);
+    Node<T> newNode = new Node<>(value);
 
     //check if list is empty
     if (this.tail == null) {
@@ -96,11 +96,27 @@ public class MyDoublyLinkedListImpl<T> implements MyDoublyLinkedList<T> {
     return getSize();
   }
 
-  public void setHead(ListNode<T> head) {
+  //O(n) Complexity
+  @Override
+  public boolean contains(T value) {
+    Node<T> currentNode = this.head;
+
+    while (currentNode != null) {
+      if (currentNode.getValue().equals(value)) {
+        return true;
+      }
+
+      currentNode = currentNode.getNextNode();
+    }
+
+    return false;
+  }
+
+  public void setHead(Node<T> head) {
     this.head = head;
   }
 
-  public void setTail(ListNode<T> tail) {
+  public void setTail(Node<T> tail) {
     this.tail = tail;
   }
 
@@ -119,9 +135,9 @@ public class MyDoublyLinkedListImpl<T> implements MyDoublyLinkedList<T> {
 
   private class MyLinkedListIterator<T> implements Iterator<T> {
 
-    private ListNode<T> node;
+    private Node<T> node;
 
-    public MyLinkedListIterator(ListNode<T> node) {
+    public MyLinkedListIterator(Node<T> node) {
       this.node = node;
     }
 
@@ -144,7 +160,7 @@ public class MyDoublyLinkedListImpl<T> implements MyDoublyLinkedList<T> {
 
     T[] result = (T[]) new Object[getSize()];
 
-    ListNode newNode = head;
+    Node newNode = head;
 
     int currentIndex = 0;
 

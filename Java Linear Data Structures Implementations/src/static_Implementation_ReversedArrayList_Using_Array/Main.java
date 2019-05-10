@@ -1,13 +1,9 @@
-package implement_ReversedArrayList_Using_Array;
+package static_Implementation_ReversedArrayList_Using_Array;
 
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
 import java.util.Iterator;
 
 public class Main {
   public static void main(String[] args) {
-
-    BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
     MyReversedArrayList<Integer> nums = new MyReversedArrayListImpl<>();
     nums.addElement(1);
@@ -16,6 +12,8 @@ public class Main {
     nums.addElement(87);
     nums.addElement(99);
     nums.addElement(4);
+
+    System.out.println(nums.contains(999));
 
     try {
       System.out.println(nums.getElement(2));

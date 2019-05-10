@@ -1,4 +1,4 @@
-package implement_ReversedArrayList_Using_Array;
+package static_Implementation_ReversedArrayList_Using_Array;
 
 import java.util.Arrays;
 import java.util.Iterator;
@@ -60,6 +60,18 @@ public class MyReversedArrayListImpl<T> implements MyReversedArrayList<T> {
     checkIndexValidity(index);
 
     this.data[this.count - 1 - index] = element;
+  }
+
+  //O(n) Complexity
+  @Override
+  public boolean contains(T value) {
+    for (int i = 0; i < this.count; i++) {
+      if (this.data[i].equals(value)) {
+        return true;
+      }
+    }
+
+    return false;
   }
 
   private void checkIndexValidity(int index) {
