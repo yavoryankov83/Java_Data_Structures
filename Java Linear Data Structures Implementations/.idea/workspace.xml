@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df638ae2-ff49-4afd-b53b-44259e937e00" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/implement_DoublyLinkedList/MyDoublyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/implement_DoublyLinkedList/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/implement_DoublyLinkedList/MyDoublyLinkedListImpl.java" />
+        <option value="$PROJECT_DIR$/src/implement_DoublyLinkedList/Main.java" />
+        <option value="$PROJECT_DIR$/src/implement_Stack_Using_Node/Node.java" />
+        <option value="$PROJECT_DIR$/src/implement_ArrayList_Using_Array/MyArrayList.java" />
+        <option value="$PROJECT_DIR$/src/implement_ArrayList_Using_Array/MyArrayListImpl.java" />
+        <option value="$PROJECT_DIR$/src/implement_ArrayList_Using_Array/Main.java" />
+        <option value="$PROJECT_DIR$/src/implement_DoublyLinkedList_Using_Node/MyDoublyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/implement_DoublyLinkedList_Using_Node/MyDoublyLinkedListImpl.java" />
+        <option value="$PROJECT_DIR$/src/implement_DoublyLinkedList_Using_Node/Main.java" />
+        <option value="$PROJECT_DIR$/src/implement_ReversedArrayList_Using_Array/MyReversedArrayList.java" />
+        <option value="$PROJECT_DIR$/src/implement_ReversedArrayList_Using_Array/MyReversedArrayListImpl.java" />
+        <option value="$PROJECT_DIR$/src/implement_ReversedArrayList_Using_Array/Main.java" />
+        <option value="$PROJECT_DIR$/src/implement_Stack_Using_Array/MyStack.java" />
+        <option value="$PROJECT_DIR$/src/implement_Stack_Using_Array/Main.java" />
+        <option value="$PROJECT_DIR$/src/implement_Stack_Using_Node/MyStack.java" />
+        <option value="$PROJECT_DIR$/src/implement_Stack_Using_Node/Main.java" />
+        <option value="$PROJECT_DIR$/src/implement_Stack_Using_Node/MyStackImpl.java" />
+        <option value="$PROJECT_DIR$/src/implement_Stack_Using_Array/MyStackImpl.java" />
+        <option value="$PROJECT_DIR$/src/static_Implementation_Circular_Queue_Using_Array/MyQueqe.java" />
+        <option value="$PROJECT_DIR$/src/static_Implementation_Circular_Queue_Using_Array/MyQueueImpl.java" />
+        <option value="$PROJECT_DIR$/src/static_Implementation_Circular_Queue_Using_Array/Main.java" />
+        <option value="$PROJECT_DIR$/src/matching_Brackets_Using_Stack/MatchingBrackets.java" />
+        <option value="$PROJECT_DIR$/src/dynamic_Implementation_Linked_Queue_Using_Node/MyQueue.java" />
+        <option value="$PROJECT_DIR$/src/dynamic_Implementation_Linked_Queue_Using_Node/Node.java" />
+        <option value="$PROJECT_DIR$/src/reverse_Number_With_Stack/ReverseNumberWithStack.java" />
+        <option value="$PROJECT_DIR$/src/calculate_Sequence_With_Queue/CalculateSequenceWithQueue.java" />
+        <option value="$PROJECT_DIR$/src/dynamic_Implementation_Linked_Queue_Using_Node/Main.java" />
+        <option value="$PROJECT_DIR$/src/dynamic_Implementation_Linked_Queue_Using_Node/MyQueueImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="-1" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java Linear Data Structures Implementations" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java Linear Data Structures Implementations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java Linear Data Structures Implementations" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java Linear Data Structures Implementations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tree Like Data Structures Implementations" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="CalculateSequenceWithQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="calculate_Sequence_With_Queue.CalculateSequenceWithQueue" />
+      <module name="Java Linear Data Structures Implementations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calculate_Sequence_With_Queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static_Implementation_Circular_Queue_Using_Array.Main" />
+      <module name="Java Linear Data Structures Implementations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="static_Implementation_Circular_Queue_Using_Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamic_Implementation_Linked_Queue_Using_Node.Main" />
+      <module name="Java Linear Data Structures Implementations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dynamic_Implementation_Linked_Queue_Using_Node.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static_Implementation_ReversedArrayList_Using_Array.Main" />
+      <module name="Java Linear Data Structures Implementations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="static_Implementation_ReversedArrayList_Using_Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatchingBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="matching_Brackets_Using_Stack.MatchingBrackets" />
+      <module name="Java Linear Data Structures Implementations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="matching_Brackets_Using_Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseNumberWithStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reverse_Number_With_Stack.ReverseNumberWithStack" />
+      <module name="Java Linear Data Structures Implementations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reverse_Number_With_Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.CalculateSequenceWithQueue" />
+        <item itemvalue="Application.ReverseNumberWithStack" />
+        <item itemvalue="Application.MatchingBrackets" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df638ae2-ff49-4afd-b53b-44259e937e00" name="Default Changelist" comment="" />
+      <created>1556802146913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556802146913</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-1" width="1920" height="1080" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26627535" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3291536" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39916405" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3291536" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" x="0" y="0" width="430" height="880" id="Documentation" order="8" side_tool="true" weight="0.32977587" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/dynamic_Implementation_DoublyLinkedList_Using_Node/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static_Implementation_ArrayList_Using_Array/MyArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static_Implementation_ArrayList_Using_Array/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static_Implementation_ArrayList_Using_Array/MyArrayListImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="65" column="19" lean-forward="true" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
+          <folding>
+            <element signature="method#MyArrayListImpl#0;class#MyArrayListImpl#0" />
+            <element signature="method#getElement#0;class#MyArrayListImpl#0" />
+            <element signature="method#setElement#0;class#MyArrayListImpl#0" />
+            <element signature="method#add#0;class#MyArrayListImpl#0" />
+            <element signature="method#removeAt#0;class#MyArrayListImpl#0" />
+            <element signature="method#contains#0;class#MyArrayListImpl#0" />
+            <element signature="method#shrink#0;class#MyArrayListImpl#0" />
+            <element signature="method#checkIndexValidity#0;class#MyArrayListImpl#0" />
+            <element signature="method#resizeArray#0;class#MyArrayListImpl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dynamic_Implementation_DoublyLinkedList_Using_Node/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dynamic_Implementation_DoublyLinkedList_Using_Node/MyDoublyLinkedListImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="984">
+          <caret line="100" column="35" selection-start-line="100" selection-start-column="35" selection-end-line="100" selection-end-column="35" />
+          <folding>
+            <element signature="method#MyDoublyLinkedListImpl#0;class#MyDoublyLinkedListImpl#0" />
+            <element signature="method#addFirst#0;class#MyDoublyLinkedListImpl#0" />
+            <element signature="method#addLast#0;class#MyDoublyLinkedListImpl#0" />
+            <element signature="method#removeFirst#0;class#MyDoublyLinkedListImpl#0" />
+            <element signature="method#removeLast#0;class#MyDoublyLinkedListImpl#0" />
+            <element signature="method#contains#0;class#MyDoublyLinkedListImpl#0" />
+            <element signature="e#2161#2162#0" expanded="true" />
+            <element signature="e#2226#2227#0" expanded="true" />
+            <element signature="e#2273#2274#0" expanded="true" />
+            <element signature="e#2334#2335#0" expanded="true" />
+            <element signature="e#2438#2439#0" expanded="true" />
+            <element signature="class#MyLinkedListIterator#0;class#MyDoublyLinkedListImpl#0" />
+            <element signature="method#toArray#0;class#MyDoublyLinkedListImpl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dynamic_Implementation_DoublyLinkedList_Using_Node/MyDoublyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static_Implementation_ReversedArrayList_Using_Array/MyReversedArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static_Implementation_ReversedArrayList_Using_Array/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static_Implementation_ReversedArrayList_Using_Array/MyReversedArrayListImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="64" column="19" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#MyReversedArrayListImpl#0;class#MyReversedArrayListImpl#0" />
+            <element signature="method#addElement#0;class#MyReversedArrayListImpl#0" />
+            <element signature="method#removeAt#0;class#MyReversedArrayListImpl#0" />
+            <element signature="method#getElement#0;class#MyReversedArrayListImpl#0" />
+            <element signature="method#setElement#0;class#MyReversedArrayListImpl#0" />
+            <element signature="method#contains#0;class#MyReversedArrayListImpl#0" />
+            <element signature="method#checkIndexValidity#0;class#MyReversedArrayListImpl#0" />
+            <element signature="method#resize#0;class#MyReversedArrayListImpl#0" />
+            <element signature="class#MyReversedArrayListIterator#0;class#MyReversedArrayListImpl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static_Implementation_Stack_Using_Array/MyStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dynamic_Implementation_Stack_Using_Node/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dynamic_Implementation_Stack_Using_Node/MyStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static_Implementation_Stack_Using_Array/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static_Implementation_Circular_Queue_Using_Array/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/java/jdk-11.0.2/lib/src.zip!/java.base/java/util/ArrayDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="89" column="13" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/matching_Brackets_Using_Stack/MatchingBrackets.java" />
+    <entry file="file://$PROJECT_DIR$/src/static_Implementation_Circular_Queue_Using_Array/MyQueqe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dynamic_Implementation_Linked_Queue_Using_Node/MyQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reverse_Number_With_Stack/ReverseNumberWithStack.java" />
+    <entry file="file://$PROJECT_DIR$/src/static_Implementation_Circular_Queue_Using_Array/MyQueueImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+          <folding>
+            <element signature="method#MyQueueImpl#0;class#MyQueueImpl#0" />
+            <element signature="method#offer#0;class#MyQueueImpl#0" />
+            <element signature="method#poll#0;class#MyQueueImpl#0" />
+            <element signature="method#peek#0;class#MyQueueImpl#0" />
+            <element signature="method#toArray#0;class#MyQueueImpl#0" />
+            <element signature="method#resize#0;class#MyQueueImpl#0" />
+            <element signature="method#copyAllElements#0;class#MyQueueImpl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dynamic_Implementation_Stack_Using_Node/MyStackImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="method#push#0;class#MyStackImpl#0" />
+            <element signature="method#pop#0;class#MyStackImpl#0" />
+            <element signature="method#peek#0;class#MyStackImpl#0" />
+            <element signature="method#toArray#0;class#MyStackImpl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dynamic_Implementation_Stack_Using_Node/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding>
+            <element signature="method#Node#0;class#Node#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static_Implementation_Stack_Using_Array/MyStackImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="27" column="3" lean-forward="true" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#MyStackImpl#0;class#MyStackImpl#0" />
+            <element signature="method#push#0;class#MyStackImpl#0" />
+            <element signature="method#resizeArray#0;class#MyStackImpl#0" />
+            <element signature="method#pop#0;class#MyStackImpl#0" />
+            <element signature="method#peek#0;class#MyStackImpl#0" />
+            <element signature="method#search#0;class#MyStackImpl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/calculate_Sequence_With_Queue/CalculateSequenceWithQueue.java" />
+    <entry file="file://$PROJECT_DIR$/src/dynamic_Implementation_Linked_Queue_Using_Node/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dynamic_Implementation_Linked_Queue_Using_Node/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dynamic_Implementation_Linked_Queue_Using_Node/MyQueueImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+          <folding>
+            <element signature="method#MyQueueImpl#0;class#MyQueueImpl#0" />
+            <element signature="method#offer#0;class#MyQueueImpl#0" />
+            <element signature="method#peek#0;class#MyQueueImpl#0" />
+            <element signature="method#toArray#0;class#MyQueueImpl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

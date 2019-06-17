@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6b6add2-9473-4b41-b367-d6e00a428ae4" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/tree/TreeImpl.java" />
+        <option value="$PROJECT_DIR$/src/tree/Tree.java" />
+        <option value="$PROJECT_DIR$/src/tree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/tree/MyTreeNode.java" />
+        <option value="$PROJECT_DIR$/src/binaryTree/Node.java" />
+        <option value="$PROJECT_DIR$/src/binaryTree/Main.java" />
+        <option value="$PROJECT_DIR$/src/binaryTree/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/binary_Search_Tree/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/tree_Of_N_Nodes/Node.java" />
+        <option value="$PROJECT_DIR$/src/tree_Of_N_Nodes/Tree.java" />
+        <option value="$PROJECT_DIR$/src/tree_Of_N_Nodes/Main.java" />
+        <option value="$PROJECT_DIR$/src/binary_Search_Tree/Node.java" />
+        <option value="$PROJECT_DIR$/src/tree/MyTree.java" />
+        <option value="$PROJECT_DIR$/src/tree/MyTreeImpl.java" />
+        <option value="$PROJECT_DIR$/src/tree/Main.java" />
+        <option value="$PROJECT_DIR$/src/binary_Search_Tree/Main.java" />
+        <option value="$PROJECT_DIR$/src/binary_Search_Tree/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/binary_Search_Tree/BinarySearchTreeImpl.java" />
+        <option value="$PROJECT_DIR$/src/binary_Search_Tree/Main1.java" />
+        <option value="$PROJECT_DIR$/src/binary_Search_Tree_Implementation_Using_Node/Node.java" />
+        <option value="$PROJECT_DIR$/src/priority_Queue_Implementation_Using_Binary_Heap/MyPriorityQueue.java" />
+        <option value="$PROJECT_DIR$/src/priority_Queue_Implementation_Using_Binary_Heap/Main.java" />
+        <option value="$PROJECT_DIR$/src/priority_Queue_Implementation_Using_Binary_Heap/MyPriorityQueueImpl.java" />
+        <option value="$PROJECT_DIR$/src/heap/Main.java" />
+        <option value="$PROJECT_DIR$/src/heap/HaepSort.java" />
+        <option value="$PROJECT_DIR$/src/heap/HeapSort.java" />
+        <option value="$PROJECT_DIR$/src/heap_Sort_Implementation/Main.java" />
+        <option value="$PROJECT_DIR$/src/heap_Sort_Implementation/HeapSort.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="-1" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Tree Like Data Structures Implementations" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tree Like Data Structures Implementations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tree Like Data Structures Implementations" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tree Like Data Structures Implementations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tree Like Data Structures Implementations" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tree Like Data Structures Implementations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="heap_Sort_Implementation" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/heap_Sort_Implementation" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/heap_Sort_Implementation" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="heap_Sort_Implementation.Main" />
+      <module name="Tree Like Data Structures Implementations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="heap_Sort_Implementation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="priority_Queue_Implementation_Using_Binary_Heap.Main" />
+      <module name="Tree Like Data Structures Implementations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="priority_Queue_Implementation_Using_Binary_Heap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tree_Implementation.Main" />
+      <module name="Tree Like Data Structures Implementations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tree_Implementation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binary_Search_Tree_Implementation_Using_Node.Main1" />
+      <module name="Tree Like Data Structures Implementations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binary_Search_Tree_Implementation_Using_Node.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="heap.Main" />
+      <module name="Tree Like Data Structures Implementations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="heap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binary_Search_Tree_Implementation_Using_Node.Main" />
+      <module name="Tree Like Data Structures Implementations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binary_Search_Tree_Implementation_Using_Node.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binary_Search_Tree.Main" />
+      <module name="Tree Like Data Structures Implementations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binary_Search_Tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6b6add2-9473-4b41-b367-d6e00a428ae4" name="Default Changelist" comment="" />
+      <created>1557567631495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557567631495</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-1" width="1920" height="1080" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27908218" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3291536" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3291536" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39916405" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3291536" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/tree_Of_N_Nodes/TreeOfNNodes.java" />
+    <entry file="file://$PROJECT_DIR$/src/tree_Of_N_Nodes/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/tree_Of_N_Nodes/Tree.java" />
+    <entry file="file://$PROJECT_DIR$/src/tree_Implementation/MyTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree_Implementation/MyTreeImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="53" column="11" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="11" />
+          <folding>
+            <element signature="method#MyTree#0;class#MyTree#0" />
+            <element signature="method#recursive_DFS#0;class#MyTree#0" />
+            <element signature="method#DFS#0;class#MyTree#0" />
+            <element signature="method#iterative_DFS_Stack#0;class#MyTree#0" />
+            <element signature="method#iterative_BFS_Queue#0;class#MyTree#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree_Implementation/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binary_Search_Tree_Implementation_Using_Node/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binary_Search_Tree_Implementation_Using_Node/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="15" lean-forward="true" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binary_Search_Tree_Implementation_Using_Node/BinarySearchTreeImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="856">
+          <caret line="538" selection-start-line="538" selection-end-line="538" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#BinarySearchTreeImpl#0;class#BinarySearchTreeImpl#0" />
+            <element signature="method#preorderCopy#0;class#BinarySearchTreeImpl#0" />
+            <element signature="method#add#0;class#BinarySearchTreeImpl#0" />
+            <element signature="method#insertTraverse#0;class#BinarySearchTreeImpl#0" />
+            <element signature="method#remove#0;class#BinarySearchTreeImpl#0" />
+            <element signature="method#findSmallestLarger#0;class#BinarySearchTreeImpl#0" />
+            <element signature="method#findNode#0;class#BinarySearchTreeImpl#0" />
+            <element signature="method#containsTraverse#0;class#BinarySearchTreeImpl#0" />
+            <element signature="method#search#0;class#BinarySearchTreeImpl#0" />
+            <element signature="method#minValue#0;class#BinarySearchTreeImpl#0" />
+            <element signature="method#maxValue#0;class#BinarySearchTreeImpl#0" />
+            <element signature="method#deleteMin#0;class#BinarySearchTreeImpl#0" />
+            <element signature="method#deleteMax#0;class#BinarySearchTreeImpl#0" />
+            <element signature="method#range#0;class#BinarySearchTreeImpl#0" />
+            <element signature="method#range#1;class#BinarySearchTreeImpl#0" />
+            <element signature="method#recursive_inorder_DFS#0;class#BinarySearchTreeImpl#0" />
+            <element signature="method#traverseInorderDFS#0;class#BinarySearchTreeImpl#0" />
+            <element signature="method#iterative_inorder_DFS#0;class#BinarySearchTreeImpl#0" />
+            <element signature="method#traverseInorderIterativeDFS#0;class#BinarySearchTreeImpl#0" />
+            <element signature="method#recursive_postorder_DFS#0;class#BinarySearchTreeImpl#0" />
+            <element signature="method#traversePostorderDFS#0;class#BinarySearchTreeImpl#0" />
+            <element signature="method#iterative_postorder_DFS#0;class#BinarySearchTreeImpl#0" />
+            <element signature="method#traversePostorderIterativeDFS#0;class#BinarySearchTreeImpl#0" />
+            <element signature="method#recursive_preorder_DFS#0;class#BinarySearchTreeImpl#0" />
+            <element signature="method#traversePreorderDFS#0;class#BinarySearchTreeImpl#0" />
+            <element signature="method#iterative_preorder_DFS#0;class#BinarySearchTreeImpl#0" />
+            <element signature="method#traversePreorderIterativeDFS#0;class#BinarySearchTreeImpl#0" />
+            <element signature="method#findMaxNodeOnLeft#0;class#BinarySearchTreeImpl#0" />
+            <element signature="method#findMinNodeOnRight#0;class#BinarySearchTreeImpl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binary_Search_Tree_Implementation_Using_Node/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <element signature="method#Node#0;class#Node#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binary_Search_Tree_Implementation_Using_Node/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/priority_Queue_Implementation_Using_Binary_Heap/MyPriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/priority_Queue_Implementation_Using_Binary_Heap/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/priority_Queue_Implementation_Using_Binary_Heap/MyPriorityQueueImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="159" column="3" lean-forward="true" selection-start-line="127" selection-start-column="2" selection-end-line="159" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#push#0;class#MyPriorityQueueImpl#0" />
+            <element signature="method#heapifyUp_Iterative#0;class#MyPriorityQueueImpl#0" />
+            <element signature="method#heapifyUp_Recursive#0;class#MyPriorityQueueImpl#0" />
+            <element signature="method#swap#0;class#MyPriorityQueueImpl#0" />
+            <element signature="method#getTop#0;class#MyPriorityQueueImpl#0" />
+            <element signature="method#pop#0;class#MyPriorityQueueImpl#0" />
+            <element signature="method#heapifyDown_Iterative#0;class#MyPriorityQueueImpl#0" />
+            <element signature="method#getGreaterChildIndex#0;class#MyPriorityQueueImpl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/heap/HeapSort.java" />
+    <entry file="file://$PROJECT_DIR$/src/heap/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/heap_Sort_Implementation/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/heap_Sort_Implementation/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="22" column="84" selection-start-line="22" selection-start-column="84" selection-end-line="22" selection-end-column="84" />
+          <folding>
+            <element signature="method#heapSort#0;class#HeapSort#0" />
+            <element signature="method#heapify#0;class#HeapSort#0" />
+            <element signature="method#printArray#0;class#HeapSort#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
